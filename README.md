@@ -1,7 +1,6 @@
 ## Programming Notes
 
 ### Clojure
-
 #### Docs
 * Community docs - https://clojuredocs.org
 * Community docs - https://www.conj.io
@@ -23,4 +22,7 @@
 
 #### Misc
 * REPL - http://www.tryclj.com
+
+### Puppet
+### Ruby
 
