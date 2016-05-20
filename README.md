@@ -19,6 +19,7 @@
 * News letter - http://defnewsletter.com
 * News letter - http://reborg.tumblr.com
 * IRC - #clojure on freenode
+* Slack Channel - http://clojurians.net
 
 #### Misc
 * REPL - http://www.tryclj.com
