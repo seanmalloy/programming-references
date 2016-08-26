@@ -1,17 +1,23 @@
-## Programming Notes
+# Programming Notes
 
-### Clojure
-#### Docs
+## Clojure
+### Docs
 * Community docs - https://clojuredocs.org
 * Community docs - https://www.conj.io
 
-#### Libraries
+### Libraries
 * Community repo - https://clojars.org
 * Community repo - http://clojurewerkz.org
 * Search for libraries - https://crossclj.info
 * Search for libraries - http://www.clojure-toolbox.com
+* List of Useful Web Libraries - http://www.luminusweb.net/docs/useful_libraries.md
+#### Web Libraries
+* ring
+* compojure
+* hiccup
+* ring-json (uses cheshire)
 
-#### Community
+### Community
 * Mailing list - https://groups.google.com/forum/#!forum/clojure
 * Redit Clojure Sub - https://www.reddit.com/r/Clojure
 * Feed Agrigator - http://planet.clojure.in
@@ -21,9 +27,9 @@
 * IRC - #clojure on freenode
 * Slack Channel - http://clojurians.net
 
-#### Misc
+### Misc
 * REPL - http://www.tryclj.com
 
-### Puppet
-### Ruby
+## Puppet
+## Ruby
 
